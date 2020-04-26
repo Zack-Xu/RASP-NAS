@@ -21,8 +21,7 @@
 
 实际使用过程中，ext4文件系统的固态硬盘和机械硬盘读写速度都在100MB/s左右符合预计。（注，如果是使用windows下的NTFS格式读取速度不受影响，而写入会降低到30MB/s左右）
 
-<img src="/pic/1.png" width="30%" title="机械硬盘">
-<img src="/pic/2.png" width="30%" title="固态硬盘">
+<img src="/pic/1.png" width="30%" title="机械硬盘"><img src="/pic/2.png" width="30%" title="固态硬盘">
 
 ## USB硬盘HUB的选择
 ---------
