@@ -3,9 +3,7 @@
 ----------
 先来看一下树莓派和当前主流的入门级别NAS的对比
 
-<img src="https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i3/2097832145/O1CN01s0XMZ91RiS9KI5NTn_!!2097832145.png_430x430q90.jpg" width="20%" title="DS218j">
-<img src="https://gd2.alicdn.com/imgextra/i2/3525591994/O1CN012BRonB1QbILsEBd0U_!!3525591994.jpg" width="26%" title="TS-428">
-<img src="https://img.alicdn.com/imgextra/i3/2206856013549/O1CN014xMTCG1c5UD9LJYZ4_!!2206856013549.jpg_430x430q90.jpg" width="26%" title="树莓派4B">
+<img src="https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i3/2097832145/O1CN01s0XMZ91RiS9KI5NTn_!!2097832145.png_430x430q90.jpg" width="20%" title="DS218j"><img src="https://gd2.alicdn.com/imgextra/i2/3525591994/O1CN012BRonB1QbILsEBd0U_!!3525591994.jpg" width="26%" title="TS-428"><img src="https://img.alicdn.com/imgextra/i3/2206856013549/O1CN014xMTCG1c5UD9LJYZ4_!!2206856013549.jpg_430x430q90.jpg" width="26%" title="树莓派4B">
 
 
 
@@ -29,8 +27,7 @@
 ## USB硬盘HUB的选择
 ---------
 
-<img src="https://gd1.alicdn.com/imgextra/i1/90020378/O1CN01hChSlm1EfAGVDLRTk_!!90020378.jpg" width="30%" title="绿联CM249">
-<img src="https://gd3.alicdn.com/imgextra/i3/90020378/O1CN01JENU5W1EfAFys84tj_!!90020378.jpg" width="30%" title="绿联CM198">
+<img src="https://gd1.alicdn.com/imgextra/i1/90020378/O1CN01hChSlm1EfAGVDLRTk_!!90020378.jpg" width="30%" title="绿联CM249"><img src="https://gd3.alicdn.com/imgextra/i3/90020378/O1CN01JENU5W1EfAFys84tj_!!90020378.jpg" width="30%" title="绿联CM198">
 
 上面两个设备由左到右分别为绿联CM249,绿联CM198。课程选择后者（不带脱机拷贝功能）。
 
