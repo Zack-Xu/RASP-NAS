@@ -3,7 +3,7 @@
 ----------
 先来看一下树莓派和当前主流的入门级别NAS的对比
 
-<img src="https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i3/2097832145/O1CN01s0XMZ91RiS9KI5NTn_!!2097832145.png_430x430q90.jpg" width="20%" title="DS218j"><img src="https://gd2.alicdn.com/imgextra/i2/3525591994/O1CN012BRonB1QbILsEBd0U_!!3525591994.jpg" width="26%" title="TS-428"><img src="https://img.alicdn.com/imgextra/i3/2206856013549/O1CN014xMTCG1c5UD9LJYZ4_!!2206856013549.jpg_430x430q90.jpg" width="26%" title="树莓派4B">
+<img src="/pic/DS218j.jpg" width="20%" title="DS218j"><img src="/pic/TS-428.jpg" width="26%" title="TS-428"><img src="/pic/rasp4.jpg" width="26%" title="树莓派4B">
 
 
 
@@ -27,7 +27,7 @@
 ## USB硬盘HUB的选择
 ---------
 
-<img src="https://gd1.alicdn.com/imgextra/i1/90020378/O1CN01hChSlm1EfAGVDLRTk_!!90020378.jpg" width="30%" title="绿联CM249"><img src="https://gd3.alicdn.com/imgextra/i3/90020378/O1CN01JENU5W1EfAFys84tj_!!90020378.jpg" width="30%" title="绿联CM198">
+<img src="/pic/CM249.jpg" width="30%" title="绿联CM249"><img src="/pic/CM198.jpg" width="30%" title="绿联CM198">
 
 上面两个设备由左到右分别为绿联CM249,绿联CM198。课程选择后者（不带脱机拷贝功能）。
 
@@ -48,7 +48,7 @@
 -------------
 交换机往往是NAS系统中容易忽视的一环。一般连接NAS的方式，是电脑和NAS都连接到路由器中。如果路由器的lan口是千兆的话，那么速度上面就没有什么问题。如果路由器不是千兆LAN口，那么我们就需要加入一个千兆的交换机。
 
-<img src="https://img.alicdn.com/imgextra/i2/804068890/TB2bk.aGrSYBuNjSspfXXcZCpXa_!!804068890.jpg_430x430q90.jpg" width="30%" title="绿联CM198">
+<img src="/pic/switch.jpg" width="30%" title="switch">
 
 千兆交换机的选择可以随意。试验环境中使用的是水星的5口千兆交换机，价格为45元。
 
